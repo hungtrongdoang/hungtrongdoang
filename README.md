@@ -5,7 +5,7 @@
 
 -> facebook: https://www.facebook.com/hoatrodun
 
--> mail: hungtrongdoang@gmail.com/hoangtrongdung.contact@gmail.com
+-> mail: hungtrongdoang@gmail.com/ hoangtrongdung.contact@gmail.com
 
 <!---
 hungtrongdoang/hungtrongdoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
